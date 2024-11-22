@@ -2,7 +2,7 @@
 title: "Confidence interval construction for the difference between two correlated proportions with missing observations"
 collection: publications
 category: manuscripts
-permalink: /publication/2016TangandLi
+permalink: /publication/2015-12-09TangandLi.md
 date: 2015-12-09
 venue: 'Journal of Biopharmaceutical Statistics'
 paperurl: 'https://jieli12.github.io/files/papers/2016TangandLi.pdf'
